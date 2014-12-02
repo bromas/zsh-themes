@@ -1,6 +1,3 @@
-# oh-my-zsh Bureau Theme
-
-### NVM
 
 ZSH_THEME_NVM_PROMPT_PREFIX="%B⬡%b "
 ZSH_THEME_NVM_PROMPT_SUFFIX=""
