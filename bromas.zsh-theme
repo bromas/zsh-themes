@@ -100,7 +100,7 @@ get_space () {
   echo $SPACES
 }
 
-_1LEFT="$_USERNAME $_PATH $ruby_version $python_version"
+_1LEFT="$_PATH $ruby_version $python_version"
 _1RIGHT="[%*] "
 
 bureau_precmd () {
